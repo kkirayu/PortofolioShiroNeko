@@ -1,10 +1,6 @@
-interface AboutMeProps {
-    id?: string;
-  }
-  
 import danilAbout from "../asset/danilabout.png";
 
-export function AboutMe({ id }: AboutMeProps) {
+export function AboutMe() {
   return (
     <div className="container mx-auto px-4">
       <section className="flex flex-col md:flex-row items-center justify-center p-12 min-h-screen w-full bg-white">

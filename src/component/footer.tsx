@@ -15,8 +15,8 @@ export function Foot() {
             name="Muhammad Danil"
           />
           <Footer.LinkGroup className="flex flex-wrap justify-center sm:justify-end gap-4 mt-4 sm:mt-0">
-            <Footer.Link href="#">Instagram</Footer.Link>
-            <Footer.Link href="#">LinkedIn</Footer.Link>
+            <Footer.Link href="https://www.instagram.com/vermouth0_/">Instagram</Footer.Link>
+            <Footer.Link href="https://www.linkedin.com/in/muhammad-danil-kukicha/">LinkedIn</Footer.Link>
             <Footer.Link href="#">TBA</Footer.Link>
             <Footer.Link href="#">TBA</Footer.Link>
           </Footer.LinkGroup>

@@ -73,7 +73,7 @@ export function Time() {
               <Timeline.Time>August 2024 - Now</Timeline.Time>
               <Timeline.Title>Student of Amikom University Yogyakarta</Timeline.Title>
               <Timeline.Body>
-                Open to Freelance
+                Open to Freelance & Part Time
               </Timeline.Body>
             </Timeline.Content>
           </Timeline.Item>

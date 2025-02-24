@@ -15,9 +15,9 @@ return (
             Home
         </NavbarLink>
         <NavbarLink href="">About</NavbarLink>
-        <NavbarLink href="#">Services</NavbarLink>
-        <NavbarLink href="#">Pricing</NavbarLink>
-        <NavbarLink href="#aboutme">Contact</NavbarLink>
+        <NavbarLink href="#">Soon</NavbarLink>
+        <NavbarLink href="#">Soon</NavbarLink>
+        <NavbarLink href="#aboutme">Soon</NavbarLink>
         </NavbarCollapse>
     </Navbar>
     </div>

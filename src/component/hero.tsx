@@ -13,7 +13,13 @@ export function Hero() {
                 <p className="text-gray-600 mt-6 text-lg">
                     I have extensive experience working as a project programmer at the Ministry of Education in Malaysia.
                 </p>
-                <Button className="mt-6 px-6 py-3 text-lg" color="blue">Read</Button>
+                <Button
+                    className="mt-6 px-6 py-3 text-lg bg-blue-500 text-white"
+                    style={{ borderRadius: "75% 25% 75% 25% / 56% 25% 75% 25%" }}
+                >
+                    Read
+                </Button>
+
             </div>
             <div className="relative mt-8 md:mt-0 w-full md:w-1/2 flex justify-center">
                 <div className="relative rounded-lg bg-blue-50 w-full max-w-2xl flex justify-center">
